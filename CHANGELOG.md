@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c729420`](https://github.com/stdlib-js/stdlib/commit/c7294205a503ea3e9a37d1588b2aea4e12331aa6) - **chore:** clean-up _(by Athan Reines)_
 -   [`242c076`](https://github.com/stdlib-js/stdlib/commit/242c076de549632a025fe3bc519fbf1a5d46be7a) - **feat:** add `stats/base/dists/halfnormal/mean` [(#9613)](https://github.com/stdlib-js/stdlib/pull/9613) _(by Shubham)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Shubham
 
 </section>
