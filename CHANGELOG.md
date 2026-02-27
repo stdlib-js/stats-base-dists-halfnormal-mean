@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-16)
+## Unreleased (2026-02-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ee1f1a7`](https://github.com/stdlib-js/stdlib/commit/ee1f1a7b7d7de0dba506731a05698e0bb43b2d1c) - **docs:** fix wrong section order in `stats/base/dists` and `stats/strided` READMEs _(by Philipp Burckhardt)_
 -   [`2e38ad1`](https://github.com/stdlib-js/stdlib/commit/2e38ad1d6a8f51a4dbe8ed07072961774e8bbdfa) - **test:** fix variable acess and regenerate fixtures _(by Philipp Burckhardt)_
 
 </details>
