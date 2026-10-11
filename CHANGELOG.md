@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-10-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a3e3463`](https://github.com/stdlib-js/stdlib/commit/a3e346300a2855a4a1bfb48c31f588db0f515121) - **style:** add whitespace [(#15394)](https://github.com/stdlib-js/stdlib/pull/15394) _(by Philipp Burckhardt)_
 -   [`48ecece`](https://github.com/stdlib-js/stdlib/commit/48ecece37972070184f1590052891e70be5f37b0) - **test:** migrate `stats/base/dists/halfnormal/mean` to ULP-based assertions [(#15262)](https://github.com/stdlib-js/stdlib/pull/15262) _(by Philipp Burckhardt, Athan Reines)_
 -   [`112dcfc`](https://github.com/stdlib-js/stdlib/commit/112dcfcf5333be07ec3986193a011220762a0591) - **docs:** fix string interpolation and missing JSDoc annotations [(#13284)](https://github.com/stdlib-js/stdlib/pull/13284) _(by Philipp Burckhardt)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
